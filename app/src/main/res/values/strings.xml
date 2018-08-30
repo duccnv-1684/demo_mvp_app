@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DemoMVPApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="message_username_invalid">Invalid Username!</string>
+    <string name="message_password_invalid">Invalid Password!</string>
+    <string name="login_fail">Login Fail!</string>
+    <string name="to_home_activity">Move to Home</string>
 </resources>
